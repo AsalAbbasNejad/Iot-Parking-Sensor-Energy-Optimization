@@ -36,7 +36,3 @@ All data is collected, simulated, and analyzed in a Wokwi-based environment to a
 - Energy Consumption: ~7.51 J per full sensing-transmitting cycle
 - Optimal Sink Placement: Found via analytical and Python (Powell algorithm) methods
 - Simulation: Fully replicable via [Wokwi link](https://wokwi.com/projects/425241064895099905)
-
-## 📉 Battery Lifetime Estimation
-
-> Lifetime is derived from measured power (mW) × duration (s) and calculated energy (J).
