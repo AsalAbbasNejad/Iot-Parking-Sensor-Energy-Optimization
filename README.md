@@ -1,7 +1,7 @@
 # IoT Parking Sensor – Energy Optimization & Simulation
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/0bf9d4f2-8396-40a5-9db9-4c7c2a3845b6" />
 
-
+ 
 This project focuses on designing and analyzing an ultra-low power IoT parking sensor system using:
 - ESP32 microcontroller
 - HC-SR04 ultrasonic sensor
